@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables file
+*.env
+
+# Dependency directories
+data_storage/
+static/

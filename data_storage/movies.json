@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Inception",
+        "duration": 148,
+        "type": "Movie",
+        "genre": "Sci-Fi"
+    },
+    {
+        "name": "The Dark Knight",
+        "duration": 152,
+        "type": "Movie",
+        "genre": "Action"
+    },
+    {
+        "name": "Interstellar",
+        "duration": 169,
+        "type": "Movie",
+        "genre": "Sci-Fi"
+    }
+]
