@@ -4,25 +4,10 @@
 
 ## Project Description
 
-*YOUR PROJECT DESCRIPTION HERE*
+*The Odyssey project is a FastAPI application that extracts and stores information about popular movies in a specific year from the internet. This application utilizes web scraping techniques to fetch movie data and stores it in a JSON file. Additionally, it provides an API for interacting with this data, allowing users to get information about movies, add new movies, and update or delete existing movies.
+*
 
 ## Installation
-
-*YOUR INSTALLATION INSTRUCTIONS HERE*
-
-## Running the Project
-
-*YOUR RUNNING INSTRUCTIONS HERE*
-
-
-## File Structure
-
-*YOUR FILE STRUCTURE DESCRIPTION HERE*
-
-
-
-
-## Instrucțiuni de instalare
 
 1. Clonați repository-ul:
     ```bash
@@ -35,7 +20,7 @@
     pip install -r requirements.txt
     ```
 
-## Instrucțiuni de rulare
+## Running the Project
 
 1. Rulați scriptul de scraping pentru a obține datele:
     ```bash
@@ -47,7 +32,8 @@
     python app.py
     ```
 
-## Instrucțiuni de testare
+
+## Testing
 
 1. Rulați testele:
     ```bash
